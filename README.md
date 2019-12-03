@@ -36,3 +36,9 @@ Another sample video is taken at heavy human traffic intersection, where I'm tra
 Final example shows application of above developed methods to tracking several chosen targets at the same time. 
 
 ![mul_1](output/ps5-5-a-1.png) ![mul_2](output/ps5-5-a-2.png)
+
+## Code
+
+ - experiment.py: contains execution script that runs multiple experiment with different methods
+ - ps5.py: contains main methods for object tracking and image processing
+ 
